@@ -1,1 +1,1 @@
-This is my firt text fie in VIM.
+This is my firt text fie in VIM. I edit this in new-branch bitch.
