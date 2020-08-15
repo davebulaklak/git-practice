@@ -1,1 +1,2 @@
 This is my firt text fie in VIM. I edit this in new-branch bitch.
+Sup Dave I've edit your text1.txt file, this the file I'm writing right now. LOL :P
