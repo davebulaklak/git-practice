@@ -1,2 +1,2 @@
-This my third text file created in VIM.
+This my third text file created in VIM. I edit this in the "new-branch".
 
